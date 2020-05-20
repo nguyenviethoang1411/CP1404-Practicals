@@ -1,6 +1,7 @@
 """
 CP1404/CP5632 Practical - Suggested Solution
 Programming Language client code.
+https://github.com/nguyenviethoang1411/CP1404-Practicals
 """
 from prac_06.programming_language import ProgrammingLanguage
 

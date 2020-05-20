@@ -1,6 +1,7 @@
 """
 CP1404/CP5632 Practical - Suggested Solution
 Guitar class
+https://github.com/nguyenviethoang1411/CP1404-Practicals
 """
 # Note: It would be better to get the current year from the system clock
 # and you might like to do that: lookup the "datetime" module
